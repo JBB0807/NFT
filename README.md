@@ -1,6 +1,6 @@
 # NFT Marketplace Demo
 
-[![Deploy to GitHub Pages](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml/badge.svg)](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/JBB0807/NFT/actions/workflows/deploy.yml/badge.svg)](https://github.com/JBB0807/NFT/actions/workflows/deploy.yml)
 
 A simple NFT marketplace landing page built with React and Vite.
 
@@ -19,7 +19,7 @@ This project includes a development environment with hot reload capabilities usi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/nft_dev.git
+   git clone https://github.com/JBB0807/NFT.git
    cd nft_dev
    ```
 
@@ -40,7 +40,7 @@ This project includes a development environment with hot reload capabilities usi
 
 2. Update your local repository
    ```bash
-   git remote set-url origin https://github.com/USERNAME/nft_dev.git
+   git remote set-url origin https://github.com/JBB0807/NFT.git
    ```
 
 3. Update the placeholders
@@ -64,7 +64,7 @@ This project includes a development environment with hot reload capabilities usi
 
 1. Replace the `USERNAME` in the badge URL with your GitHub username:
    ```markdown
-   [![Deploy to GitHub Pages](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml/badge.svg)](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml)
+   [![Deploy to GitHub Pages](https://github.com/JBB0807/NFT/actions/workflows/deploy.yml/badge.svg)](https://github.com/USERNAME/nft_dev/actions/workflows/deploy.yml)
    ```
 
 ## Manual Deployment
